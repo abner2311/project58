@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+  background-color: cyan;
+}
+
+img{
+  width: 100px;
+    height: 100px;
+}
+
+h1{
+  font-size: 20px;
+}
+
+p{
+  font-size: 18px;
+  color:  
+}
+.menu{
+    list-style: none;
+    font-family:cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: blanchedalmond;
+}
